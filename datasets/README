@@ -20,6 +20,6 @@ datasets
     └── ringCity_raw.g2o
 
 gt: ground truth
-raw: test dataset
+
 
 
