@@ -1,0 +1,25 @@
+Dataset for 16833 Project
+
+file tree
+
+datasets
+├── generateDataset.py
+├── intel
+│   ├── intel_gt.g2o
+│   └── intel_raw.g2o
+├── manhattan
+│   ├── manhattan3500_g2o.g2o
+│   ├── manhattan3500_gt.g2o
+│   └── manhattan3500_Olson.g2o
+├── README
+├── ring
+│   ├── ring_gt.g2o
+│   └── ring_raw.g2o
+└── ringCity
+    ├── ringCity_gt.g2o
+    └── ringCity_raw.g2o
+
+gt: ground truth
+raw: test dataset
+
+
