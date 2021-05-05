@@ -1,0 +1,28 @@
+loaded manhattan3500_g2o.g2o with 3500 vertices and 5598 measurements
+graph is fixed by node 3499
+# Using CHOLMOD poseDim -1 landMarkDim -1 blockordering 1
+Preparing (no marginalization of Landmarks)
+iteration= 0	 chi2= 790.384634	 time= 0.0151154	 cumTime= 0.0151154	 edges= 5598	 schur= 0	 lambda= 0.005708	 levenbergIter= 1
+iteration= 1	 chi2= 272.404424	 time= 0.00922295	 cumTime= 0.0243384	 edges= 5598	 schur= 0	 lambda= 0.001903	 levenbergIter= 1
+iteration= 2	 chi2= 190.812767	 time= 0.00938926	 cumTime= 0.0337276	 edges= 5598	 schur= 0	 lambda= 0.000634	 levenbergIter= 1
+iteration= 3	 chi2= 148.284063	 time= 0.00930674	 cumTime= 0.0430344	 edges= 5598	 schur= 0	 lambda= 0.000211	 levenbergIter= 1
+iteration= 4	 chi2= 146.517019	 time= 0.0105939	 cumTime= 0.0536282	 edges= 5598	 schur= 0	 lambda= 0.000070	 levenbergIter= 1
+iteration= 5	 chi2= 146.255858	 time= 0.010358	 cumTime= 0.0639863	 edges= 5598	 schur= 0	 lambda= 0.000023	 levenbergIter= 1
+iteration= 6	 chi2= 146.217957	 time= 0.0116833	 cumTime= 0.0756695	 edges= 5598	 schur= 0	 lambda= 0.000008	 levenbergIter= 1
+iteration= 7	 chi2= 146.184566	 time= 0.0102923	 cumTime= 0.0859618	 edges= 5598	 schur= 0	 lambda= 0.000005	 levenbergIter= 1
+iteration= 8	 chi2= 146.158237	 time= 0.0093895	 cumTime= 0.0953513	 edges= 5598	 schur= 0	 lambda= 0.000003	 levenbergIter= 1
+iteration= 9	 chi2= 146.141534	 time= 0.00966161	 cumTime= 0.105013	 edges= 5598	 schur= 0	 lambda= 0.000002	 levenbergIter= 1
+iteration= 10	 chi2= 146.130750	 time= 0.00948936	 cumTime= 0.114502	 edges= 5598	 schur= 0	 lambda= 0.000001	 levenbergIter= 1
+iteration= 11	 chi2= 146.126171	 time= 0.00940895	 cumTime= 0.123911	 edges= 5598	 schur= 0	 lambda= 0.000001	 levenbergIter= 1
+iteration= 12	 chi2= 146.125761	 time= 0.00909932	 cumTime= 0.133011	 edges= 5598	 schur= 0	 lambda= 0.000001	 levenbergIter= 1
+iteration= 13	 chi2= 146.119491	 time= 0.009443	 cumTime= 0.142454	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 14	 chi2= 146.101437	 time= 0.00944353	 cumTime= 0.151897	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 15	 chi2= 146.084166	 time= 0.00959114	 cumTime= 0.161488	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 16	 chi2= 146.077623	 time= 0.0107794	 cumTime= 0.172268	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 17	 chi2= 146.076666	 time= 0.00970859	 cumTime= 0.181976	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 18	 chi2= 146.076614	 time= 0.00912901	 cumTime= 0.191105	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 19	 chi2= 146.076613	 time= 0.00959835	 cumTime= 0.200704	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 20	 chi2= 146.076613	 time= 0.00952841	 cumTime= 0.210232	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 21	 chi2= 146.076613	 time= 0.00963596	 cumTime= 0.219868	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 22	 chi2= 146.076613	 time= 0.0106931	 cumTime= 0.230561	 edges= 5598	 schur= 0	 lambda= 0.000000	 levenbergIter= 1
+iteration= 23	 chi2= 146.076613	 time= 0.0794482	 cumTime= 0.310009	 edges= 5598	 schur= 0	 lambda= 412814886.696870	 levenbergIter= 10

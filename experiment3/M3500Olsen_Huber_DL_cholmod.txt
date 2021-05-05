@@ -1,0 +1,19 @@
+loaded manhattan3500_Olson.g2o with 3500 vertices and 5598 measurements
+graph is fixed by node 3499
+# Using CHOLMOD poseDim -1 landMarkDim -1 blockordering 1
+Preparing (no marginalization of Landmarks)
+iteration= 0	 chi2= 63153.997029	 time= 0.0171303	 cumTime= 0.0171303	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 1	 chi2= 10625.103848	 time= 0.0105202	 cumTime= 0.0276505	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 2	 chi2= 222.603883	 time= 0.0105204	 cumTime= 0.0381709	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 3	 chi2= 146.109772	 time= 0.0111462	 cumTime= 0.0493171	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 4	 chi2= 146.076747	 time= 0.0108758	 cumTime= 0.0601929	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 5	 chi2= 146.076745	 time= 0.011034	 cumTime= 0.0712269	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 6	 chi2= 146.076745	 time= 0.0106124	 cumTime= 0.0818393	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 7	 chi2= 146.076745	 time= 0.0102299	 cumTime= 0.0920692	 edges= 5598	 Delta= 5000	 step= GN	 tries= 1
+iteration= 8	 chi2= 146.076745	 time= 0.0623408	 cumTime= 0.15441	 edges= 5598	 Delta= 1.81899e-08	 step= Dogleg	 tries= 38
+iteration= 9	 chi2= 146.076745	 time= 0.0156989	 cumTime= 0.170109	 edges= 5598	 Delta= 1.13687e-09	 step= Dogleg	 tries= 5
+iteration= 10	 chi2= 146.076745	 time= 0.0198909	 cumTime= 0.19	 edges= 5598	 Delta= 8.88178e-12	 step= Descent	 tries= 8
+iteration= 11	 chi2= 146.076745	 time= 0.0131397	 cumTime= 0.20314	 edges= 5598	 Delta= 1.11022e-12	 step= Descent	 tries= 3
+iteration= 12	 chi2= 146.076745	 time= 0.014552	 cumTime= 0.217692	 edges= 5598	 Delta= 6.93889e-14	 step= Descent	 tries= 4
+iteration= 13	 chi2= 146.076745	 time= 0.0198701	 cumTime= 0.237562	 edges= 5598	 Delta= 1.0842e-15	 step= Descent	 tries= 6
+iteration= 14	 chi2= 146.076745	 time= 0.151609	 cumTime= 0.389171	 edges= 5598	 Delta= 8.55285e-46	 step= Descent	 tries= 100

@@ -1,0 +1,14 @@
+loaded /home/lincoln/16833/project/result_bad_initial/data/manhattan3500_0.5.g2o with 3500 vertices and 5598 measurements
+graph is fixed by node 3499
+# Using CHOLMOD poseDim -1 landMarkDim -1 blockordering 1
+Preparing (no marginalization of Landmarks)
+iteration= 0	 chi2= 0.175336	 time= 0.0140224	 cumTime= 0.0140224	 edges= 5598	 schur= 0
+iteration= 1	 chi2= 0.014669	 time= 0.00826346	 cumTime= 0.0222858	 edges= 5598	 schur= 0
+iteration= 2	 chi2= 0.000008	 time= 0.0101256	 cumTime= 0.0324114	 edges= 5598	 schur= 0
+iteration= 3	 chi2= 0.000000	 time= 0.00840927	 cumTime= 0.0408207	 edges= 5598	 schur= 0
+iteration= 4	 chi2= 0.000000	 time= 0.00898915	 cumTime= 0.0498098	 edges= 5598	 schur= 0
+iteration= 5	 chi2= 0.000000	 time= 0.00874203	 cumTime= 0.0585518	 edges= 5598	 schur= 0
+iteration= 6	 chi2= 0.000000	 time= 0.00846483	 cumTime= 0.0670167	 edges= 5598	 schur= 0
+iteration= 7	 chi2= 0.000000	 time= 0.00836594	 cumTime= 0.0753826	 edges= 5598	 schur= 0
+iteration= 8	 chi2= 0.000000	 time= 0.00846886	 cumTime= 0.0838515	 edges= 5598	 schur= 0
+iteration= 9	 chi2= 0.000000	 time= 0.00803623	 cumTime= 0.0918877	 edges= 5598	 schur= 0

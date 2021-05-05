@@ -1,0 +1,12 @@
+loaded manhattan3500_g2o.g2o with 3500 vertices and 5598 measurements
+graph is fixed by node 3499
+# Using CHOLMOD poseDim -1 landMarkDim -1 blockordering 1
+Preparing (no marginalization of Landmarks)
+iteration= 0	 chi2= 1320.555432	 time= 0.0151888	 cumTime= 0.0151888	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 1	 chi2= 182.845640	 time= 0.0104543	 cumTime= 0.0256431	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 2	 chi2= 146.388130	 time= 0.0104156	 cumTime= 0.0360587	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 3	 chi2= 146.076630	 time= 0.0107143	 cumTime= 0.046773	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 4	 chi2= 146.076613	 time= 0.0115415	 cumTime= 0.0583145	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 5	 chi2= 146.076613	 time= 0.0110358	 cumTime= 0.0693503	 edges= 5598	 Delta= 10000	 step= GN	 tries= 1
+iteration= 6	 chi2= 146.076613	 time= 0.100885	 cumTime= 0.170236	 edges= 5598	 Delta= 4.33681e-15	 step= Descent	 tries= 61
+iteration= 7	 chi2= 146.076613	 time= 0.153371	 cumTime= 0.323607	 edges= 5598	 Delta= 3.42114e-45	 step= Descent	 tries= 100

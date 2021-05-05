@@ -1,0 +1,50 @@
+loaded manhattan3500_1.5.g2o with 3500 vertices and 5598 measurements
+graph is fixed by node 3499
+# Using CHOLMOD poseDim -1 landMarkDim -1 blockordering 1
+Preparing (no marginalization of Landmarks)
+iteration= 0	 chi2= 26.220029	 time= 0.0186579	 cumTime= 0.0186579	 edges= 5598	 Delta= 1250	 step= Dogleg	 tries= 3
+iteration= 1	 chi2= 11.855348	 time= 0.0110951	 cumTime= 0.029753	 edges= 5598	 Delta= 3750	 step= Dogleg	 tries= 1
+iteration= 2	 chi2= 7.907561	 time= 0.0119544	 cumTime= 0.0417074	 edges= 5598	 Delta= 1875	 step= Dogleg	 tries= 2
+iteration= 3	 chi2= 4.303843	 time= 0.0106342	 cumTime= 0.0523416	 edges= 5598	 Delta= 1875	 step= Dogleg	 tries= 1
+iteration= 4	 chi2= 2.742899	 time= 0.012264	 cumTime= 0.0646056	 edges= 5598	 Delta= 937.5	 step= Dogleg	 tries= 2
+iteration= 5	 chi2= 1.594662	 time= 0.010553	 cumTime= 0.0751586	 edges= 5598	 Delta= 937.5	 step= Dogleg	 tries= 1
+iteration= 6	 chi2= 0.932388	 time= 0.0106343	 cumTime= 0.0857929	 edges= 5598	 Delta= 937.5	 step= Dogleg	 tries= 1
+iteration= 7	 chi2= 0.176949	 time= 0.0102401	 cumTime= 0.096033	 edges= 5598	 Delta= 2812.5	 step= Dogleg	 tries= 1
+iteration= 8	 chi2= 0.062212	 time= 0.0102876	 cumTime= 0.106321	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 9	 chi2= 0.052857	 time= 0.0106329	 cumTime= 0.116954	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 10	 chi2= 0.052730	 time= 0.0104084	 cumTime= 0.127362	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 11	 chi2= 0.052716	 time= 0.0104742	 cumTime= 0.137836	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 12	 chi2= 0.052712	 time= 0.0103999	 cumTime= 0.148236	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 13	 chi2= 0.052711	 time= 0.0101303	 cumTime= 0.158366	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 14	 chi2= 0.052711	 time= 0.0102275	 cumTime= 0.168594	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 15	 chi2= 0.052710	 time= 0.0102331	 cumTime= 0.178827	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 16	 chi2= 0.052710	 time= 0.010975	 cumTime= 0.189802	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 17	 chi2= 0.052710	 time= 0.0108321	 cumTime= 0.200634	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 18	 chi2= 0.052710	 time= 0.0105182	 cumTime= 0.211152	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 19	 chi2= 0.052710	 time= 0.0104246	 cumTime= 0.221577	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 20	 chi2= 0.052710	 time= 0.0103076	 cumTime= 0.231885	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 21	 chi2= 0.052710	 time= 0.01033	 cumTime= 0.242215	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 22	 chi2= 0.052710	 time= 0.010121	 cumTime= 0.252336	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 23	 chi2= 0.052710	 time= 0.0103357	 cumTime= 0.262671	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 24	 chi2= 0.052710	 time= 0.0104923	 cumTime= 0.273164	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 25	 chi2= 0.052710	 time= 0.0100722	 cumTime= 0.283236	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 26	 chi2= 0.052710	 time= 0.0102452	 cumTime= 0.293481	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 27	 chi2= 0.052710	 time= 0.0103304	 cumTime= 0.303811	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 28	 chi2= 0.052710	 time= 0.0101881	 cumTime= 0.313999	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 29	 chi2= 0.052710	 time= 0.0103261	 cumTime= 0.324326	 edges= 5598	 Delta= 2812.5	 step= GN	 tries= 1
+iteration= 30	 chi2= 0.052710	 time= 0.0103327	 cumTime= 0.334658	 edges= 5598	 Delta= 1406.25	 step= GN	 tries= 1
+iteration= 31	 chi2= 0.052710	 time= 0.010104	 cumTime= 0.344762	 edges= 5598	 Delta= 703.125	 step= GN	 tries= 1
+iteration= 32	 chi2= 0.052710	 time= 0.0101229	 cumTime= 0.354885	 edges= 5598	 Delta= 351.562	 step= GN	 tries= 1
+iteration= 33	 chi2= 0.052710	 time= 0.0103344	 cumTime= 0.36522	 edges= 5598	 Delta= 175.781	 step= GN	 tries= 1
+iteration= 34	 chi2= 0.052710	 time= 0.01028	 cumTime= 0.3755	 edges= 5598	 Delta= 87.8906	 step= GN	 tries= 1
+iteration= 35	 chi2= 0.052710	 time= 0.010113	 cumTime= 0.385613	 edges= 5598	 Delta= 43.9453	 step= GN	 tries= 1
+iteration= 36	 chi2= 0.052710	 time= 0.0103615	 cumTime= 0.395974	 edges= 5598	 Delta= 21.9727	 step= GN	 tries= 1
+iteration= 37	 chi2= 0.052710	 time= 0.0102662	 cumTime= 0.40624	 edges= 5598	 Delta= 10.9863	 step= GN	 tries= 1
+iteration= 38	 chi2= 0.052710	 time= 0.0101985	 cumTime= 0.416439	 edges= 5598	 Delta= 5.49316	 step= GN	 tries= 1
+iteration= 39	 chi2= 0.052710	 time= 0.0102993	 cumTime= 0.426738	 edges= 5598	 Delta= 2.74658	 step= GN	 tries= 1
+iteration= 40	 chi2= 0.052710	 time= 0.0540468	 cumTime= 0.480785	 edges= 5598	 Delta= 7.99361e-11	 step= Descent	 tries= 35
+iteration= 41	 chi2= 0.052710	 time= 0.0101965	 cumTime= 0.490982	 edges= 5598	 Delta= 3.9968e-11	 step= Descent	 tries= 1
+iteration= 42	 chi2= 0.052710	 time= 0.0157285	 cumTime= 0.50671	 edges= 5598	 Delta= 1.249e-12	 step= Descent	 tries= 5
+iteration= 43	 chi2= 0.052710	 time= 0.0156076	 cumTime= 0.522318	 edges= 5598	 Delta= 3.90313e-14	 step= Descent	 tries= 5
+iteration= 44	 chi2= 0.052710	 time= 0.0119307	 cumTime= 0.534248	 edges= 5598	 Delta= 9.75782e-15	 step= Descent	 tries= 2
+iteration= 45	 chi2= 0.052710	 time= 0.135877	 cumTime= 0.670125	 edges= 5598	 Delta= 7.69756e-45	 step= Descent	 tries= 100
